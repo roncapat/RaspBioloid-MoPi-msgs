@@ -11,7 +11,6 @@ add_message_files(
   config.msg
   voltage_lvls.msg
   batt_status.msg
-  mopi_info.msg
 )
 
 add_service_files(
